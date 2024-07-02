@@ -1,4 +1,4 @@
-## Conclusion
+## Image-Geo-Localization-Through-Retrieval
 
 In this study, conducted in July 2024 as part of the Masters of Data Science and Engineering in MLDL course at Politecnico di Torino, we explored various techniques to enhance the performance of a visual geo-localization model using deep learning.
 
